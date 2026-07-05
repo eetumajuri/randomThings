@@ -1,3 +1,6 @@
+# NEXT --> add to database (postgresql?) ran on rsbpi? also switch from tkinter to pygame for better IO handling and UI?
+
+
 import json
 import os
 import shutil
