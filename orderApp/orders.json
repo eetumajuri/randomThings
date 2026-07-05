@@ -1,0 +1,1891 @@
+[
+    {
+        "id": 1,
+        "category": "food",
+        "customer": "Oscar Torres",
+        "items": [
+            "Coffee",
+            "Veggie Wrap",
+            "Milkshake",
+            "Tacos"
+        ],
+        "price": 61.65,
+        "status": "shipped",
+        "date": "2026-07-05"
+    },
+    {
+        "id": 2,
+        "category": "clothing",
+        "customer": "Paula Rossi",
+        "items": [
+            "Winter Coat",
+            "Jeans",
+            "Rain Jacket"
+        ],
+        "price": 346.88,
+        "status": "cancelled",
+        "date": "2026-07-04"
+    },
+    {
+        "id": 3,
+        "category": "clothing",
+        "customer": "Quentin Hill",
+        "items": [
+            "Wool Sweater"
+        ],
+        "price": 88.7,
+        "status": "shipped",
+        "date": "2026-07-03"
+    },
+    {
+        "id": 4,
+        "category": "clothing",
+        "customer": "Laura Martinez",
+        "items": [
+            "T-Shirt",
+            "Tank Top"
+        ],
+        "price": 185.25,
+        "status": "pending",
+        "date": "2026-07-03"
+    },
+    {
+        "id": 5,
+        "category": "food",
+        "customer": "George Wilson",
+        "items": [
+            "Muffin",
+            "Chicken Wings",
+            "Burger"
+        ],
+        "price": 25.5,
+        "status": "completed",
+        "date": "2026-06-30"
+    },
+    {
+        "id": 6,
+        "category": "clothing",
+        "customer": "Paula Rossi",
+        "items": [
+            "Belt"
+        ],
+        "price": 75.05,
+        "status": "processing",
+        "date": "2026-06-30"
+    },
+    {
+        "id": 7,
+        "category": "clothing",
+        "customer": "Quentin Hill",
+        "items": [
+            "Belt"
+        ],
+        "price": 57.83,
+        "status": "processing",
+        "date": "2026-06-29"
+    },
+    {
+        "id": 8,
+        "category": "clothing",
+        "customer": "Bob Smith",
+        "items": [
+            "Summer Dress"
+        ],
+        "price": 17.28,
+        "status": "completed",
+        "date": "2026-06-29"
+    },
+    {
+        "id": 9,
+        "category": "food",
+        "customer": "Ethan Brown",
+        "items": [
+            "Ice Cream Sundae",
+            "Tacos",
+            "Fries"
+        ],
+        "price": 53.62,
+        "status": "cancelled",
+        "date": "2026-06-27"
+    },
+    {
+        "id": 10,
+        "category": "food",
+        "customer": "Julia Kim",
+        "items": [
+            "Pepperoni Pizza",
+            "Cappuccino"
+        ],
+        "price": 26.96,
+        "status": "completed",
+        "date": "2026-06-26"
+    },
+    {
+        "id": 11,
+        "category": "clothing",
+        "customer": "Hannah Moore",
+        "items": [
+            "Scarf"
+        ],
+        "price": 121.84,
+        "status": "shipped",
+        "date": "2026-06-25"
+    },
+    {
+        "id": 12,
+        "category": "clothing",
+        "customer": "George Wilson",
+        "items": [
+            "Jeans",
+            "Belt"
+        ],
+        "price": 186.06,
+        "status": "shipped",
+        "date": "2026-06-25"
+    },
+    {
+        "id": 13,
+        "category": "food",
+        "customer": "Fiona Clark",
+        "items": [
+            "Falafel Wrap"
+        ],
+        "price": 14.62,
+        "status": "cancelled",
+        "date": "2026-06-24"
+    },
+    {
+        "id": 14,
+        "category": "food",
+        "customer": "Bob Smith",
+        "items": [
+            "Sushi Platter",
+            "Chicken Wings",
+            "Ice Cream Sundae"
+        ],
+        "price": 43.84,
+        "status": "processing",
+        "date": "2026-06-22"
+    },
+    {
+        "id": 15,
+        "category": "food",
+        "customer": "Julia Kim",
+        "items": [
+            "Pizza Margherita",
+            "Falafel Wrap",
+            "Lasagna"
+        ],
+        "price": 54.83,
+        "status": "pending",
+        "date": "2026-06-22"
+    },
+    {
+        "id": 16,
+        "category": "clothing",
+        "customer": "Julia Kim",
+        "items": [
+            "Polo Shirt",
+            "Scarf"
+        ],
+        "price": 63.04,
+        "status": "cancelled",
+        "date": "2026-06-20"
+    },
+    {
+        "id": 17,
+        "category": "food",
+        "customer": "Tina Nguyen",
+        "items": [
+            "Cheeseburger",
+            "Steak",
+            "Tacos",
+            "Sushi Platter"
+        ],
+        "price": 53.0,
+        "status": "completed",
+        "date": "2026-06-19"
+    },
+    {
+        "id": 18,
+        "category": "clothing",
+        "customer": "Sam Turner",
+        "items": [
+            "Socks (3-pack)"
+        ],
+        "price": 49.98,
+        "status": "completed",
+        "date": "2026-06-17"
+    },
+    {
+        "id": 19,
+        "category": "food",
+        "customer": "Diana Lee",
+        "items": [
+            "Veggie Wrap"
+        ],
+        "price": 20.36,
+        "status": "completed",
+        "date": "2026-06-15"
+    },
+    {
+        "id": 20,
+        "category": "food",
+        "customer": "Michael Chen",
+        "items": [
+            "Cheeseburger",
+            "Milkshake",
+            "Burger"
+        ],
+        "price": 53.39,
+        "status": "shipped",
+        "date": "2026-06-14"
+    },
+    {
+        "id": 21,
+        "category": "food",
+        "customer": "Fiona Clark",
+        "items": [
+            "Pasta Carbonara",
+            "Steak"
+        ],
+        "price": 33.41,
+        "status": "pending",
+        "date": "2026-06-13"
+    },
+    {
+        "id": 22,
+        "category": "food",
+        "customer": "Julia Kim",
+        "items": [
+            "Fries"
+        ],
+        "price": 22.91,
+        "status": "processing",
+        "date": "2026-06-09"
+    },
+    {
+        "id": 23,
+        "category": "food",
+        "customer": "Diana Lee",
+        "items": [
+            "Croissant",
+            "Pepperoni Pizza",
+            "Smoothie",
+            "Ice Cream Sundae"
+        ],
+        "price": 43.74,
+        "status": "pending",
+        "date": "2026-06-09"
+    },
+    {
+        "id": 24,
+        "category": "clothing",
+        "customer": "Fiona Clark",
+        "items": [
+            "Blazer",
+            "Running Shorts"
+        ],
+        "price": 162.12,
+        "status": "completed",
+        "date": "2026-06-07"
+    },
+    {
+        "id": 25,
+        "category": "clothing",
+        "customer": "Nina Patel",
+        "items": [
+            "Chino Pants",
+            "T-Shirt",
+            "Sneakers"
+        ],
+        "price": 222.73,
+        "status": "completed",
+        "date": "2026-06-05"
+    },
+    {
+        "id": 26,
+        "category": "clothing",
+        "customer": "Rachel Adams",
+        "items": [
+            "Sneakers"
+        ],
+        "price": 17.62,
+        "status": "processing",
+        "date": "2026-06-04"
+    },
+    {
+        "id": 27,
+        "category": "clothing",
+        "customer": "Diana Lee",
+        "items": [
+            "Socks (3-pack)",
+            "Sandals",
+            "Belt",
+            "Scarf"
+        ],
+        "price": 297.76,
+        "status": "completed",
+        "date": "2026-06-04"
+    },
+    {
+        "id": 28,
+        "category": "clothing",
+        "customer": "Nina Patel",
+        "items": [
+            "Boots",
+            "Baseball Cap",
+            "Cargo Pants"
+        ],
+        "price": 290.09,
+        "status": "shipped",
+        "date": "2026-06-03"
+    },
+    {
+        "id": 29,
+        "category": "food",
+        "customer": "Bob Smith",
+        "items": [
+            "Croissant",
+            "Pizza Margherita"
+        ],
+        "price": 14.23,
+        "status": "completed",
+        "date": "2026-06-03"
+    },
+    {
+        "id": 30,
+        "category": "food",
+        "customer": "Ivan Petrov",
+        "items": [
+            "Fish and Chips",
+            "Veggie Wrap",
+            "Sushi Platter",
+            "Chocolate Cake"
+        ],
+        "price": 35.4,
+        "status": "processing",
+        "date": "2026-06-02"
+    },
+    {
+        "id": 31,
+        "category": "clothing",
+        "customer": "Sam Turner",
+        "items": [
+            "Blazer",
+            "Jeans",
+            "Rain Jacket"
+        ],
+        "price": 197.82,
+        "status": "processing",
+        "date": "2026-06-01"
+    },
+    {
+        "id": 32,
+        "category": "clothing",
+        "customer": "Alice Johnson",
+        "items": [
+            "Wool Sweater",
+            "Hoodie"
+        ],
+        "price": 266.17,
+        "status": "pending",
+        "date": "2026-05-29"
+    },
+    {
+        "id": 33,
+        "category": "clothing",
+        "customer": "Sam Turner",
+        "items": [
+            "Scarf",
+            "Dress Shirt"
+        ],
+        "price": 167.43,
+        "status": "pending",
+        "date": "2026-05-27"
+    },
+    {
+        "id": 34,
+        "category": "food",
+        "customer": "Rachel Adams",
+        "items": [
+            "Cheesecake",
+            "Burger",
+            "Cappuccino"
+        ],
+        "price": 61.31,
+        "status": "shipped",
+        "date": "2026-05-26"
+    },
+    {
+        "id": 35,
+        "category": "food",
+        "customer": "Oscar Torres",
+        "items": [
+            "Pizza Margherita",
+            "Ice Cream Sundae",
+            "Nachos",
+            "Donut"
+        ],
+        "price": 60.36,
+        "status": "pending",
+        "date": "2026-05-26"
+    },
+    {
+        "id": 36,
+        "category": "food",
+        "customer": "Diana Lee",
+        "items": [
+            "Pepperoni Pizza",
+            "Steak",
+            "Cheesecake"
+        ],
+        "price": 17.82,
+        "status": "cancelled",
+        "date": "2026-05-26"
+    },
+    {
+        "id": 37,
+        "category": "clothing",
+        "customer": "Ethan Brown",
+        "items": [
+            "Sweatpants",
+            "Socks (3-pack)",
+            "Sneakers",
+            "Hoodie"
+        ],
+        "price": 339.47,
+        "status": "completed",
+        "date": "2026-05-25"
+    },
+    {
+        "id": 38,
+        "category": "clothing",
+        "customer": "Tina Nguyen",
+        "items": [
+            "T-Shirt",
+            "Beanie"
+        ],
+        "price": 139.43,
+        "status": "processing",
+        "date": "2026-05-25"
+    },
+    {
+        "id": 39,
+        "category": "food",
+        "customer": "Tina Nguyen",
+        "items": [
+            "Ramen",
+            "Pasta Carbonara",
+            "Lasagna"
+        ],
+        "price": 43.21,
+        "status": "processing",
+        "date": "2026-05-24"
+    },
+    {
+        "id": 40,
+        "category": "clothing",
+        "customer": "Ethan Brown",
+        "items": [
+            "Jeans"
+        ],
+        "price": 35.76,
+        "status": "completed",
+        "date": "2026-05-24"
+    },
+    {
+        "id": 41,
+        "category": "clothing",
+        "customer": "Kevin White",
+        "items": [
+            "Chino Pants",
+            "Scarf"
+        ],
+        "price": 173.94,
+        "status": "cancelled",
+        "date": "2026-05-22"
+    },
+    {
+        "id": 42,
+        "category": "food",
+        "customer": "Hannah Moore",
+        "items": [
+            "Cappuccino"
+        ],
+        "price": 24.37,
+        "status": "completed",
+        "date": "2026-05-19"
+    },
+    {
+        "id": 43,
+        "category": "clothing",
+        "customer": "Laura Martinez",
+        "items": [
+            "Sneakers"
+        ],
+        "price": 121.19,
+        "status": "cancelled",
+        "date": "2026-05-19"
+    },
+    {
+        "id": 44,
+        "category": "food",
+        "customer": "Tina Nguyen",
+        "items": [
+            "Smoothie",
+            "Fish and Chips",
+            "Chocolate Cake"
+        ],
+        "price": 44.25,
+        "status": "pending",
+        "date": "2026-05-17"
+    },
+    {
+        "id": 45,
+        "category": "food",
+        "customer": "Paula Rossi",
+        "items": [
+            "Cappuccino",
+            "Croissant"
+        ],
+        "price": 32.17,
+        "status": "shipped",
+        "date": "2026-05-17"
+    },
+    {
+        "id": 46,
+        "category": "clothing",
+        "customer": "Ivan Petrov",
+        "items": [
+            "Rain Jacket",
+            "Sandals",
+            "Blazer",
+            "Flannel Shirt"
+        ],
+        "price": 245.41,
+        "status": "shipped",
+        "date": "2026-05-16"
+    },
+    {
+        "id": 47,
+        "category": "food",
+        "customer": "George Wilson",
+        "items": [
+            "Pasta Carbonara"
+        ],
+        "price": 9.01,
+        "status": "processing",
+        "date": "2026-05-13"
+    },
+    {
+        "id": 48,
+        "category": "food",
+        "customer": "Hannah Moore",
+        "items": [
+            "Chocolate Cake",
+            "Cheesecake"
+        ],
+        "price": 10.48,
+        "status": "pending",
+        "date": "2026-05-12"
+    },
+    {
+        "id": 49,
+        "category": "clothing",
+        "customer": "Oscar Torres",
+        "items": [
+            "Baseball Cap",
+            "Cardigan"
+        ],
+        "price": 80.35,
+        "status": "processing",
+        "date": "2026-05-12"
+    },
+    {
+        "id": 50,
+        "category": "food",
+        "customer": "Quentin Hill",
+        "items": [
+            "Cheesecake",
+            "Pasta Carbonara",
+            "Pizza Margherita",
+            "Veggie Wrap"
+        ],
+        "price": 54.85,
+        "status": "pending",
+        "date": "2026-05-11"
+    },
+    {
+        "id": 51,
+        "category": "clothing",
+        "customer": "Fiona Clark",
+        "items": [
+            "Gloves",
+            "Denim Jacket",
+            "Leather Jacket",
+            "Polo Shirt"
+        ],
+        "price": 268.37,
+        "status": "shipped",
+        "date": "2026-05-08"
+    },
+    {
+        "id": 52,
+        "category": "clothing",
+        "customer": "Hannah Moore",
+        "items": [
+            "Rain Jacket"
+        ],
+        "price": 51.6,
+        "status": "processing",
+        "date": "2026-05-07"
+    },
+    {
+        "id": 53,
+        "category": "clothing",
+        "customer": "Diana Lee",
+        "items": [
+            "T-Shirt"
+        ],
+        "price": 111.92,
+        "status": "processing",
+        "date": "2026-05-06"
+    },
+    {
+        "id": 54,
+        "category": "food",
+        "customer": "Bob Smith",
+        "items": [
+            "Ice Cream Sundae",
+            "Steak"
+        ],
+        "price": 24.7,
+        "status": "pending",
+        "date": "2026-05-05"
+    },
+    {
+        "id": 55,
+        "category": "clothing",
+        "customer": "Bob Smith",
+        "items": [
+            "Gloves"
+        ],
+        "price": 124.91,
+        "status": "processing",
+        "date": "2026-05-05"
+    },
+    {
+        "id": 56,
+        "category": "food",
+        "customer": "Rachel Adams",
+        "items": [
+            "Milkshake",
+            "Pasta Carbonara"
+        ],
+        "price": 15.04,
+        "status": "shipped",
+        "date": "2026-04-30"
+    },
+    {
+        "id": 57,
+        "category": "clothing",
+        "customer": "Laura Martinez",
+        "items": [
+            "Denim Jacket",
+            "Boots",
+            "Winter Coat"
+        ],
+        "price": 213.85,
+        "status": "completed",
+        "date": "2026-04-29"
+    },
+    {
+        "id": 58,
+        "category": "food",
+        "customer": "Laura Martinez",
+        "items": [
+            "Fish and Chips",
+            "Cheeseburger",
+            "Muffin"
+        ],
+        "price": 50.35,
+        "status": "completed",
+        "date": "2026-04-27"
+    },
+    {
+        "id": 59,
+        "category": "food",
+        "customer": "Sam Turner",
+        "items": [
+            "Chocolate Cake",
+            "Smoothie",
+            "Milkshake",
+            "Ramen"
+        ],
+        "price": 53.16,
+        "status": "shipped",
+        "date": "2026-04-26"
+    },
+    {
+        "id": 60,
+        "category": "clothing",
+        "customer": "Bob Smith",
+        "items": [
+            "Winter Coat",
+            "Polo Shirt"
+        ],
+        "price": 119.88,
+        "status": "completed",
+        "date": "2026-04-26"
+    },
+    {
+        "id": 61,
+        "category": "clothing",
+        "customer": "Rachel Adams",
+        "items": [
+            "Jeans",
+            "Boots"
+        ],
+        "price": 278.5,
+        "status": "completed",
+        "date": "2026-04-25"
+    },
+    {
+        "id": 62,
+        "category": "food",
+        "customer": "Rachel Adams",
+        "items": [
+            "Cappuccino",
+            "Tacos",
+            "Fish and Chips"
+        ],
+        "price": 27.38,
+        "status": "processing",
+        "date": "2026-04-24"
+    },
+    {
+        "id": 63,
+        "category": "clothing",
+        "customer": "Nina Patel",
+        "items": [
+            "Rain Jacket",
+            "Summer Dress",
+            "Scarf"
+        ],
+        "price": 224.95,
+        "status": "completed",
+        "date": "2026-04-23"
+    },
+    {
+        "id": 64,
+        "category": "food",
+        "customer": "Oscar Torres",
+        "items": [
+            "Pepperoni Pizza",
+            "Grilled Salmon"
+        ],
+        "price": 11.8,
+        "status": "completed",
+        "date": "2026-04-23"
+    },
+    {
+        "id": 65,
+        "category": "clothing",
+        "customer": "Fiona Clark",
+        "items": [
+            "Skirt",
+            "Sneakers"
+        ],
+        "price": 108.25,
+        "status": "pending",
+        "date": "2026-04-21"
+    },
+    {
+        "id": 66,
+        "category": "clothing",
+        "customer": "Diana Lee",
+        "items": [
+            "Skirt"
+        ],
+        "price": 123.59,
+        "status": "pending",
+        "date": "2026-04-21"
+    },
+    {
+        "id": 67,
+        "category": "food",
+        "customer": "Kevin White",
+        "items": [
+            "Fish and Chips",
+            "Veggie Wrap",
+            "Muffin",
+            "Pad Thai"
+        ],
+        "price": 53.19,
+        "status": "completed",
+        "date": "2026-04-18"
+    },
+    {
+        "id": 68,
+        "category": "clothing",
+        "customer": "Rachel Adams",
+        "items": [
+            "T-Shirt",
+            "Leather Jacket",
+            "Gloves",
+            "Blazer"
+        ],
+        "price": 499.3,
+        "status": "processing",
+        "date": "2026-04-18"
+    },
+    {
+        "id": 69,
+        "category": "food",
+        "customer": "Alice Johnson",
+        "items": [
+            "Cheesecake",
+            "Kebab",
+            "Burger"
+        ],
+        "price": 42.16,
+        "status": "processing",
+        "date": "2026-04-16"
+    },
+    {
+        "id": 70,
+        "category": "clothing",
+        "customer": "Kevin White",
+        "items": [
+            "Socks (3-pack)",
+            "Baseball Cap"
+        ],
+        "price": 170.76,
+        "status": "completed",
+        "date": "2026-04-13"
+    },
+    {
+        "id": 71,
+        "category": "clothing",
+        "customer": "Ethan Brown",
+        "items": [
+            "Leather Jacket",
+            "Cargo Pants",
+            "Wool Sweater",
+            "Gloves"
+        ],
+        "price": 246.68,
+        "status": "completed",
+        "date": "2026-04-12"
+    },
+    {
+        "id": 72,
+        "category": "clothing",
+        "customer": "Alice Johnson",
+        "items": [
+            "Leather Jacket"
+        ],
+        "price": 48.81,
+        "status": "shipped",
+        "date": "2026-04-11"
+    },
+    {
+        "id": 73,
+        "category": "food",
+        "customer": "Michael Chen",
+        "items": [
+            "Ramen",
+            "Milkshake"
+        ],
+        "price": 20.85,
+        "status": "completed",
+        "date": "2026-04-11"
+    },
+    {
+        "id": 74,
+        "category": "clothing",
+        "customer": "Tina Nguyen",
+        "items": [
+            "Flannel Shirt",
+            "Tank Top",
+            "Scarf",
+            "Socks (3-pack)"
+        ],
+        "price": 369.19,
+        "status": "completed",
+        "date": "2026-04-09"
+    },
+    {
+        "id": 75,
+        "category": "food",
+        "customer": "Charlie Davis",
+        "items": [
+            "Cheesecake",
+            "Croissant"
+        ],
+        "price": 15.53,
+        "status": "shipped",
+        "date": "2026-04-08"
+    },
+    {
+        "id": 76,
+        "category": "clothing",
+        "customer": "Diana Lee",
+        "items": [
+            "Running Shorts",
+            "Jeans"
+        ],
+        "price": 214.32,
+        "status": "pending",
+        "date": "2026-04-05"
+    },
+    {
+        "id": 77,
+        "category": "clothing",
+        "customer": "Rachel Adams",
+        "items": [
+            "Chino Pants",
+            "Running Shorts",
+            "Leather Jacket",
+            "Flannel Shirt"
+        ],
+        "price": 322.72,
+        "status": "completed",
+        "date": "2026-04-05"
+    },
+    {
+        "id": 78,
+        "category": "clothing",
+        "customer": "Diana Lee",
+        "items": [
+            "Socks (3-pack)"
+        ],
+        "price": 122.32,
+        "status": "shipped",
+        "date": "2026-04-05"
+    },
+    {
+        "id": 79,
+        "category": "clothing",
+        "customer": "Ethan Brown",
+        "items": [
+            "Skirt"
+        ],
+        "price": 65.9,
+        "status": "completed",
+        "date": "2026-04-05"
+    },
+    {
+        "id": 80,
+        "category": "clothing",
+        "customer": "Nina Patel",
+        "items": [
+            "Polo Shirt"
+        ],
+        "price": 129.99,
+        "status": "processing",
+        "date": "2026-03-28"
+    },
+    {
+        "id": 81,
+        "category": "food",
+        "customer": "Quentin Hill",
+        "items": [
+            "Fish and Chips",
+            "Muffin",
+            "Sushi Platter"
+        ],
+        "price": 31.54,
+        "status": "pending",
+        "date": "2026-03-28"
+    },
+    {
+        "id": 82,
+        "category": "food",
+        "customer": "Julia Kim",
+        "items": [
+            "Grilled Salmon"
+        ],
+        "price": 23.91,
+        "status": "shipped",
+        "date": "2026-03-27"
+    },
+    {
+        "id": 83,
+        "category": "clothing",
+        "customer": "Fiona Clark",
+        "items": [
+            "Baseball Cap",
+            "Flannel Shirt",
+            "Blazer",
+            "Chino Pants"
+        ],
+        "price": 354.31,
+        "status": "completed",
+        "date": "2026-03-26"
+    },
+    {
+        "id": 84,
+        "category": "clothing",
+        "customer": "Bob Smith",
+        "items": [
+            "Belt",
+            "Summer Dress",
+            "Dress Shirt",
+            "Skirt"
+        ],
+        "price": 351.22,
+        "status": "pending",
+        "date": "2026-03-26"
+    },
+    {
+        "id": 85,
+        "category": "clothing",
+        "customer": "Sam Turner",
+        "items": [
+            "Chino Pants",
+            "Running Shorts",
+            "Sandals",
+            "Gloves"
+        ],
+        "price": 431.76,
+        "status": "completed",
+        "date": "2026-03-25"
+    },
+    {
+        "id": 86,
+        "category": "food",
+        "customer": "Kevin White",
+        "items": [
+            "Tacos"
+        ],
+        "price": 4.0,
+        "status": "shipped",
+        "date": "2026-03-25"
+    },
+    {
+        "id": 87,
+        "category": "food",
+        "customer": "Rachel Adams",
+        "items": [
+            "Croissant",
+            "Caesar Salad",
+            "Pizza Margherita"
+        ],
+        "price": 48.04,
+        "status": "processing",
+        "date": "2026-03-25"
+    },
+    {
+        "id": 88,
+        "category": "food",
+        "customer": "Sam Turner",
+        "items": [
+            "Pad Thai",
+            "Cappuccino",
+            "Smoothie",
+            "Caesar Salad"
+        ],
+        "price": 28.64,
+        "status": "pending",
+        "date": "2026-03-24"
+    },
+    {
+        "id": 89,
+        "category": "clothing",
+        "customer": "Ethan Brown",
+        "items": [
+            "Sweatpants"
+        ],
+        "price": 14.32,
+        "status": "completed",
+        "date": "2026-03-22"
+    },
+    {
+        "id": 90,
+        "category": "food",
+        "customer": "George Wilson",
+        "items": [
+            "Tacos"
+        ],
+        "price": 23.42,
+        "status": "completed",
+        "date": "2026-03-21"
+    },
+    {
+        "id": 91,
+        "category": "clothing",
+        "customer": "Ivan Petrov",
+        "items": [
+            "Jeans",
+            "Belt",
+            "Rain Jacket"
+        ],
+        "price": 353.94,
+        "status": "processing",
+        "date": "2026-03-18"
+    },
+    {
+        "id": 92,
+        "category": "food",
+        "customer": "Paula Rossi",
+        "items": [
+            "Caesar Salad"
+        ],
+        "price": 16.02,
+        "status": "pending",
+        "date": "2026-03-18"
+    },
+    {
+        "id": 93,
+        "category": "clothing",
+        "customer": "Kevin White",
+        "items": [
+            "Sandals",
+            "Sweatpants",
+            "Rain Jacket"
+        ],
+        "price": 143.76,
+        "status": "shipped",
+        "date": "2026-03-15"
+    },
+    {
+        "id": 94,
+        "category": "clothing",
+        "customer": "Quentin Hill",
+        "items": [
+            "Summer Dress",
+            "Blazer"
+        ],
+        "price": 140.3,
+        "status": "pending",
+        "date": "2026-03-15"
+    },
+    {
+        "id": 95,
+        "category": "food",
+        "customer": "Oscar Torres",
+        "items": [
+            "Caesar Salad",
+            "Kebab"
+        ],
+        "price": 24.06,
+        "status": "pending",
+        "date": "2026-03-15"
+    },
+    {
+        "id": 96,
+        "category": "clothing",
+        "customer": "Hannah Moore",
+        "items": [
+            "Dress Shirt"
+        ],
+        "price": 120.37,
+        "status": "pending",
+        "date": "2026-03-15"
+    },
+    {
+        "id": 97,
+        "category": "clothing",
+        "customer": "Kevin White",
+        "items": [
+            "Jeans",
+            "Beanie",
+            "Wool Sweater",
+            "Scarf"
+        ],
+        "price": 326.41,
+        "status": "processing",
+        "date": "2026-03-12"
+    },
+    {
+        "id": 98,
+        "category": "food",
+        "customer": "Laura Martinez",
+        "items": [
+            "Chocolate Cake"
+        ],
+        "price": 23.21,
+        "status": "pending",
+        "date": "2026-03-12"
+    },
+    {
+        "id": 99,
+        "category": "food",
+        "customer": "Charlie Davis",
+        "items": [
+            "Sushi Platter",
+            "Cheeseburger",
+            "Pad Thai",
+            "Caesar Salad"
+        ],
+        "price": 60.67,
+        "status": "shipped",
+        "date": "2026-03-11"
+    },
+    {
+        "id": 100,
+        "category": "clothing",
+        "customer": "Oscar Torres",
+        "items": [
+            "Socks (3-pack)",
+            "Rain Jacket",
+            "Denim Jacket",
+            "Wool Sweater"
+        ],
+        "price": 171.51,
+        "status": "completed",
+        "date": "2026-03-10"
+    },
+    {
+        "id": 101,
+        "category": "clothing",
+        "customer": "Paula Rossi",
+        "items": [
+            "Tank Top",
+            "Sweatpants",
+            "T-Shirt"
+        ],
+        "price": 222.78,
+        "status": "completed",
+        "date": "2026-03-07"
+    },
+    {
+        "id": 102,
+        "category": "food",
+        "customer": "Alice Johnson",
+        "items": [
+            "Burger",
+            "Lasagna"
+        ],
+        "price": 30.13,
+        "status": "pending",
+        "date": "2026-03-06"
+    },
+    {
+        "id": 103,
+        "category": "clothing",
+        "customer": "Ethan Brown",
+        "items": [
+            "Sweatpants",
+            "Summer Dress",
+            "Rain Jacket"
+        ],
+        "price": 86.63,
+        "status": "completed",
+        "date": "2026-03-06"
+    },
+    {
+        "id": 104,
+        "category": "food",
+        "customer": "Charlie Davis",
+        "items": [
+            "Muffin",
+            "Grilled Salmon",
+            "Pasta Carbonara"
+        ],
+        "price": 30.59,
+        "status": "processing",
+        "date": "2026-03-03"
+    },
+    {
+        "id": 105,
+        "category": "clothing",
+        "customer": "Fiona Clark",
+        "items": [
+            "Sneakers",
+            "T-Shirt",
+            "Summer Dress"
+        ],
+        "price": 136.56,
+        "status": "cancelled",
+        "date": "2026-03-02"
+    },
+    {
+        "id": 106,
+        "category": "clothing",
+        "customer": "Sam Turner",
+        "items": [
+            "Boots"
+        ],
+        "price": 81.04,
+        "status": "processing",
+        "date": "2026-02-28"
+    },
+    {
+        "id": 107,
+        "category": "clothing",
+        "customer": "Hannah Moore",
+        "items": [
+            "Boots",
+            "Wool Sweater",
+            "Sneakers"
+        ],
+        "price": 346.91,
+        "status": "completed",
+        "date": "2026-02-27"
+    },
+    {
+        "id": 108,
+        "category": "clothing",
+        "customer": "Tina Nguyen",
+        "items": [
+            "Blazer",
+            "Dress Shirt",
+            "Wool Sweater",
+            "Sunglasses"
+        ],
+        "price": 404.12,
+        "status": "pending",
+        "date": "2026-02-26"
+    },
+    {
+        "id": 109,
+        "category": "clothing",
+        "customer": "Julia Kim",
+        "items": [
+            "Denim Jacket"
+        ],
+        "price": 22.01,
+        "status": "cancelled",
+        "date": "2026-02-23"
+    },
+    {
+        "id": 110,
+        "category": "food",
+        "customer": "Diana Lee",
+        "items": [
+            "Cappuccino",
+            "Muffin",
+            "Falafel Wrap"
+        ],
+        "price": 50.13,
+        "status": "processing",
+        "date": "2026-02-23"
+    },
+    {
+        "id": 111,
+        "category": "food",
+        "customer": "George Wilson",
+        "items": [
+            "Veggie Wrap",
+            "Muffin"
+        ],
+        "price": 29.22,
+        "status": "cancelled",
+        "date": "2026-02-23"
+    },
+    {
+        "id": 112,
+        "category": "food",
+        "customer": "Diana Lee",
+        "items": [
+            "Cappuccino",
+            "Milkshake",
+            "Cheeseburger",
+            "Fries"
+        ],
+        "price": 65.34,
+        "status": "cancelled",
+        "date": "2026-02-22"
+    },
+    {
+        "id": 113,
+        "category": "clothing",
+        "customer": "Bob Smith",
+        "items": [
+            "Flannel Shirt",
+            "Denim Jacket",
+            "Rain Jacket"
+        ],
+        "price": 196.78,
+        "status": "processing",
+        "date": "2026-02-21"
+    },
+    {
+        "id": 114,
+        "category": "food",
+        "customer": "Fiona Clark",
+        "items": [
+            "Ramen"
+        ],
+        "price": 5.33,
+        "status": "pending",
+        "date": "2026-02-20"
+    },
+    {
+        "id": 115,
+        "category": "clothing",
+        "customer": "Julia Kim",
+        "items": [
+            "Gloves",
+            "Belt",
+            "Scarf",
+            "Winter Coat"
+        ],
+        "price": 266.04,
+        "status": "completed",
+        "date": "2026-02-20"
+    },
+    {
+        "id": 116,
+        "category": "food",
+        "customer": "Charlie Davis",
+        "items": [
+            "Fries",
+            "Pepperoni Pizza"
+        ],
+        "price": 41.3,
+        "status": "completed",
+        "date": "2026-02-20"
+    },
+    {
+        "id": 117,
+        "category": "clothing",
+        "customer": "Laura Martinez",
+        "items": [
+            "Chino Pants",
+            "Skirt"
+        ],
+        "price": 109.74,
+        "status": "processing",
+        "date": "2026-02-19"
+    },
+    {
+        "id": 118,
+        "category": "clothing",
+        "customer": "Bob Smith",
+        "items": [
+            "Scarf",
+            "Tank Top",
+            "Flannel Shirt"
+        ],
+        "price": 282.28,
+        "status": "shipped",
+        "date": "2026-02-19"
+    },
+    {
+        "id": 119,
+        "category": "food",
+        "customer": "Oscar Torres",
+        "items": [
+            "Croissant"
+        ],
+        "price": 20.17,
+        "status": "cancelled",
+        "date": "2026-02-18"
+    },
+    {
+        "id": 120,
+        "category": "food",
+        "customer": "Tina Nguyen",
+        "items": [
+            "Pepperoni Pizza",
+            "Chocolate Cake",
+            "Cappuccino"
+        ],
+        "price": 46.46,
+        "status": "pending",
+        "date": "2026-02-17"
+    },
+    {
+        "id": 121,
+        "category": "food",
+        "customer": "Fiona Clark",
+        "items": [
+            "Smoothie",
+            "Kebab"
+        ],
+        "price": 34.91,
+        "status": "shipped",
+        "date": "2026-02-16"
+    },
+    {
+        "id": 122,
+        "category": "food",
+        "customer": "Julia Kim",
+        "items": [
+            "Croissant",
+            "Chicken Wings",
+            "Pasta Carbonara"
+        ],
+        "price": 32.57,
+        "status": "processing",
+        "date": "2026-02-16"
+    },
+    {
+        "id": 123,
+        "category": "food",
+        "customer": "Fiona Clark",
+        "items": [
+            "Grilled Salmon",
+            "Kebab"
+        ],
+        "price": 44.58,
+        "status": "pending",
+        "date": "2026-02-15"
+    },
+    {
+        "id": 124,
+        "category": "food",
+        "customer": "Paula Rossi",
+        "items": [
+            "Pasta Carbonara"
+        ],
+        "price": 8.54,
+        "status": "pending",
+        "date": "2026-02-13"
+    },
+    {
+        "id": 125,
+        "category": "food",
+        "customer": "Diana Lee",
+        "items": [
+            "Muffin",
+            "Ice Cream Sundae",
+            "Donut"
+        ],
+        "price": 52.21,
+        "status": "completed",
+        "date": "2026-02-13"
+    },
+    {
+        "id": 126,
+        "category": "food",
+        "customer": "Hannah Moore",
+        "items": [
+            "Pizza Margherita",
+            "Kebab",
+            "Fries"
+        ],
+        "price": 29.77,
+        "status": "completed",
+        "date": "2026-02-11"
+    },
+    {
+        "id": 127,
+        "category": "food",
+        "customer": "George Wilson",
+        "items": [
+            "Grilled Salmon",
+            "Chicken Wings",
+            "Veggie Wrap",
+            "Cheeseburger"
+        ],
+        "price": 35.26,
+        "status": "shipped",
+        "date": "2026-02-09"
+    },
+    {
+        "id": 128,
+        "category": "clothing",
+        "customer": "Rachel Adams",
+        "items": [
+            "Leather Jacket",
+            "Flannel Shirt",
+            "Summer Dress",
+            "Tank Top"
+        ],
+        "price": 269.1,
+        "status": "completed",
+        "date": "2026-02-07"
+    },
+    {
+        "id": 129,
+        "category": "food",
+        "customer": "Sam Turner",
+        "items": [
+            "Veggie Wrap",
+            "Kebab",
+            "Ice Cream Sundae",
+            "Cappuccino"
+        ],
+        "price": 49.41,
+        "status": "completed",
+        "date": "2026-02-07"
+    },
+    {
+        "id": 130,
+        "category": "clothing",
+        "customer": "Laura Martinez",
+        "items": [
+            "Scarf",
+            "Baseball Cap",
+            "Running Shorts"
+        ],
+        "price": 279.41,
+        "status": "completed",
+        "date": "2026-02-04"
+    },
+    {
+        "id": 131,
+        "category": "food",
+        "customer": "Quentin Hill",
+        "items": [
+            "Croissant",
+            "Tacos",
+            "Cheesecake"
+        ],
+        "price": 53.7,
+        "status": "shipped",
+        "date": "2026-02-01"
+    },
+    {
+        "id": 132,
+        "category": "clothing",
+        "customer": "Charlie Davis",
+        "items": [
+            "Dress Shirt",
+            "Summer Dress"
+        ],
+        "price": 204.25,
+        "status": "cancelled",
+        "date": "2026-01-31"
+    },
+    {
+        "id": 133,
+        "category": "clothing",
+        "customer": "Nina Patel",
+        "items": [
+            "Skirt",
+            "Blazer",
+            "Chino Pants",
+            "Boots"
+        ],
+        "price": 415.55,
+        "status": "cancelled",
+        "date": "2026-01-29"
+    },
+    {
+        "id": 134,
+        "category": "food",
+        "customer": "Charlie Davis",
+        "items": [
+            "Ramen",
+            "Chicken Wings",
+            "Cheeseburger"
+        ],
+        "price": 35.96,
+        "status": "completed",
+        "date": "2026-01-27"
+    },
+    {
+        "id": 135,
+        "category": "food",
+        "customer": "Tina Nguyen",
+        "items": [
+            "Sushi Platter",
+            "Fries",
+            "Nachos",
+            "Ramen"
+        ],
+        "price": 44.02,
+        "status": "processing",
+        "date": "2026-01-27"
+    },
+    {
+        "id": 136,
+        "category": "clothing",
+        "customer": "Alice Johnson",
+        "items": [
+            "Hoodie",
+            "Socks (3-pack)"
+        ],
+        "price": 192.4,
+        "status": "completed",
+        "date": "2026-01-26"
+    },
+    {
+        "id": 137,
+        "category": "food",
+        "customer": "Ivan Petrov",
+        "items": [
+            "Veggie Wrap"
+        ],
+        "price": 13.87,
+        "status": "completed",
+        "date": "2026-01-26"
+    },
+    {
+        "id": 138,
+        "category": "clothing",
+        "customer": "Michael Chen",
+        "items": [
+            "Socks (3-pack)"
+        ],
+        "price": 147.24,
+        "status": "pending",
+        "date": "2026-01-25"
+    },
+    {
+        "id": 139,
+        "category": "food",
+        "customer": "George Wilson",
+        "items": [
+            "Tacos",
+            "Fish and Chips",
+            "Sushi Platter",
+            "Coffee"
+        ],
+        "price": 59.56,
+        "status": "completed",
+        "date": "2026-01-23"
+    },
+    {
+        "id": 140,
+        "category": "clothing",
+        "customer": "Paula Rossi",
+        "items": [
+            "Sandals",
+            "Sweatpants"
+        ],
+        "price": 131.95,
+        "status": "completed",
+        "date": "2026-01-22"
+    },
+    {
+        "id": 141,
+        "category": "food",
+        "customer": "Tina Nguyen",
+        "items": [
+            "Smoothie",
+            "Pizza Margherita"
+        ],
+        "price": 21.67,
+        "status": "pending",
+        "date": "2026-01-22"
+    },
+    {
+        "id": 142,
+        "category": "food",
+        "customer": "Ivan Petrov",
+        "items": [
+            "Sushi Platter",
+            "Pizza Margherita",
+            "Pad Thai",
+            "Caesar Salad"
+        ],
+        "price": 37.87,
+        "status": "completed",
+        "date": "2026-01-20"
+    },
+    {
+        "id": 143,
+        "category": "food",
+        "customer": "Rachel Adams",
+        "items": [
+            "Ramen",
+            "Nachos",
+            "Pepperoni Pizza"
+        ],
+        "price": 43.6,
+        "status": "completed",
+        "date": "2026-01-19"
+    },
+    {
+        "id": 144,
+        "category": "clothing",
+        "customer": "Nina Patel",
+        "items": [
+            "Leather Jacket",
+            "Sneakers",
+            "Winter Coat"
+        ],
+        "price": 333.49,
+        "status": "cancelled",
+        "date": "2026-01-19"
+    },
+    {
+        "id": 145,
+        "category": "clothing",
+        "customer": "Sam Turner",
+        "items": [
+            "Boots"
+        ],
+        "price": 78.83,
+        "status": "completed",
+        "date": "2026-01-18"
+    },
+    {
+        "id": 146,
+        "category": "food",
+        "customer": "Michael Chen",
+        "items": [
+            "Milkshake",
+            "Ramen",
+            "Ice Cream Sundae",
+            "Croissant"
+        ],
+        "price": 23.94,
+        "status": "completed",
+        "date": "2026-01-18"
+    },
+    {
+        "id": 147,
+        "category": "clothing",
+        "customer": "Diana Lee",
+        "items": [
+            "Beanie",
+            "Polo Shirt",
+            "Boots",
+            "Sweatpants"
+        ],
+        "price": 397.23,
+        "status": "completed",
+        "date": "2026-01-17"
+    },
+    {
+        "id": 148,
+        "category": "food",
+        "customer": "Ethan Brown",
+        "items": [
+            "Croissant",
+            "Falafel Wrap",
+            "Steak"
+        ],
+        "price": 27.26,
+        "status": "shipped",
+        "date": "2026-01-17"
+    },
+    {
+        "id": 149,
+        "category": "clothing",
+        "customer": "Ethan Brown",
+        "items": [
+            "Rain Jacket",
+            "Baseball Cap"
+        ],
+        "price": 42.94,
+        "status": "cancelled",
+        "date": "2026-01-15"
+    },
+    {
+        "id": 150,
+        "category": "food",
+        "customer": "Alice Johnson",
+        "items": [
+            "Muffin",
+            "Tacos",
+            "Veggie Wrap",
+            "Chocolate Cake"
+        ],
+        "price": 66.24,
+        "status": "processing",
+        "date": "2026-01-07"
+    },
+    {
+        "id": 151,
+        "items": [
+            "Coffee",
+            "Jeans",
+            "Jeans",
+            "Jeans",
+            "Cheeseburger",
+            "Polo Shirt"
+        ],
+        "price": 162.49,
+        "status": "pending",
+        "date": "2026-07-05"
+    }
+]
