@@ -1,28 +1,62 @@
 import requests
+from pynput import mouse
 
 
-macro = {
-    "device_id": "computer_001",
+SERVER = "http://192.168.100.17:8000/event"
 
-    "name": "oma ensimmäinen makro",
+DEVICE_ID = "computer_001"
 
-    "actions": [
-        {
+
+def send_event(data):
+
+    try:
+
+        response = requests.post(
+            SERVER,
+            json=data,
+            timeout=3
+        )
+
+        print("Server:", response.json())
+
+
+    except Exception as e:
+
+        print("Virhe:", e)
+
+
+
+def on_click(x, y, button, pressed):
+
+    if pressed:
+
+        event = {
+
+            "device_id": DEVICE_ID,
+
             "type": "click",
-            "x": 500,
-            "y": 300
-        },
-        {
-            "type": "keypress",
-            "key": "ENTER"
+
+            "x": x,
+
+            "y": y,
+
+            "button": str(button)
+
         }
-    ]
-}
-
-response = requests.post(
-    "http://192.168.57.2:8000/save_macro",
-    json=macro
-)
 
 
-print(response.json())
+        print("Klikkaus:", event)
+
+        send_event(event)
+
+
+
+print("Client käynnissä")
+print("Kaikki klikkaukset lähetetään")
+
+
+with mouse.Listener(
+    on_click=on_click
+) as listener:
+
+    listener.join()
